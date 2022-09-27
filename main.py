@@ -19,10 +19,6 @@ def main():
 
     print(list_of_items)
 
-class MeteorDataEntry():
-    def __init__(self, header):
-        self.header = header
-
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
